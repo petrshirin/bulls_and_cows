@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  bullsandcows.cpp
+c:\users\admin\source\repos\bullsandcows\bullsandcows\bullsandcows.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  bullsandcows.vcxproj -> c:\users\admin\source\repos\bullsandcows\Debug\bullsandcows.exe
